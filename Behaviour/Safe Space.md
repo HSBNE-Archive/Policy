@@ -11,9 +11,9 @@ judge and jury, we are not the cops; but we are a community with shared ideals
 about the rights of people to feel free of oppression.
 
 Abuse, discrimination, harassment, assault, sexism, racism, ableism, religious
-persecution and homophobic behaviour is not tolerated at HSBNE Inc, nor is any 
-other behavior which would reasonably make a person feel trivialised or 
-otherwise discriminated against. Anyone violating this may be asked to leave 
+persecution and homophobic behaviour is not tolerated at HSBNE Inc, nor is any
+other behavior which would reasonably make a person feel trivialised or
+otherwise discriminated against. Anyone violating this may be asked to leave
 the hackerspace either temporarily or permanently.
 
 This process is not easy. Please question in advance your capacity to deal with
@@ -22,14 +22,14 @@ progressive way if you or yours were called out for behaviour in violation of
 this document.
 
 Alcohol and other drugs are not an excuse for bad behaviour. While we recognise
-the difficulties imposed by mental health and/or other disabilities, these 
+the difficulties imposed by mental health and/or other disabilities, these
 issues are not an excuse for bad behaviour either. Everyone can expect to be held
 accountable of their behaviour equally. We ask that you be aware of your
 capacity to remain in control of your emotions, actions and reactions when these
 things come into play.
 
 If you experience or witness any behaviour that crosses the boundaries and ideas
-in this document, challenge them. If you act contrary to this document, expect 
+in this document, challenge them. If you act contrary to this document, expect
 to be challenged.
 
 Actions contrary to this document are an acceptable reason to utilise our dispute
@@ -49,7 +49,7 @@ resolution process.
     socially, and personally.
 5.  We do not engage in violence or threats.
 6.  We obtain explicit consent for physical contact or using others' belongings.
-7.  We recognise that certain behaviour and language can act as a trigger for individuals, 
+7.  We recognise that certain behaviour and language can act as a trigger for individuals,
     such as trivialising, joking about or dismissing someone's thoughts or experiences.
 8.  We believe in stepping back and letting people and groups explain and
     conceive their own needs and requirements, and respect their choices and
@@ -108,8 +108,8 @@ Cisgender
 : A person whose gender identity matches with the sex they are designated at birth.
 
 Trigger
-: A topic, phrase or word that emotionally sets someone off. Could refer to anger, 
-or reliving a traumatic experience. They are not the same as being reminded of 
+: A topic, phrase or word that emotionally sets someone off. Could refer to anger,
+or reliving a traumatic experience. They are not the same as being reminded of
 something someone does not like, or take offense to.
 
 
