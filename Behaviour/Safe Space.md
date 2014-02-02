@@ -75,7 +75,8 @@ HSBNE Inc defines various terms in our safe space policy as such:
 
 Oppression
 : A system of power that seeks to keep people separate and subordinate based on
-diversity or diversities from the mainstream authority.
+diversity or diversities from the mainstream authority. Also known as systematic
+discrimination of a group.
 
 Mainstream Authority
 : The group considered 'normal' in a given culture. In Australia, this group is
