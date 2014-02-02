@@ -147,7 +147,7 @@
 
         1.  is convicted of an indictable offense; or
         2.  does not comply with any of the provisions of these rules; or
-        3.  has membership fees in arrears for at least 3 months; or
+        3.  has membership fees in arrears; or
         4.  conducts himself or herself in a way considered to be injurious or
             prejudicial to the character or interests of the association.
 
