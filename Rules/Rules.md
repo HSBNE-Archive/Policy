@@ -265,7 +265,7 @@
 18. #### Membership of management committee
 
     1.  The management committee of the association consists of a president,
-        treasurer and secretary.
+        vice-president, treasurer, secretary and patron.
     2.  A member of the management committee must be a fully paid member of the
         association.
     3.  At each annual general meeting of the association, the members of the
@@ -347,7 +347,7 @@
     2.  The continuing members of the management committee may act despite a
         casual vacancy on the management committee.
     3.  However, if the number of committee members is less than the number
-        fixed under rule 241 as a quorum of the management committee, the
+        fixed under rule 24.1 as a quorum of the management committee, the
         continuing members may act only to—
 
         1.  increase the number of management committee members to the number
@@ -424,7 +424,7 @@
 
 24. Quorum for, and adjournment of, management committee meeting
 
-    1.  Quorum consists of no less than 2 (ie 2 out of 3 ) members of the
+    1.  Quorum consists of no less than 3 (ie 3 out of 5 ) members of the
         management committee or more.
     2.  If there is no quorum within 30 minutes after the time fixed for a
         management committee meeting called on the request of members of the
@@ -443,7 +443,7 @@
 25. #### Special meeting of management committee
 
     1.  If the secretary receives a written request signed by at least 1 ( ie 1
-        out of 3 ) of the members of the management committee, the secretary
+        out of 5 ) of the members of the management committee, the secretary
         must call a special meeting of the committee by giving each member of
         the committee notice of the meeting within 14 days after the secretary
         receives the request.
