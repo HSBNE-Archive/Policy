@@ -121,3 +121,8 @@ something someone does not like, or take offense to.
 * http://www.occupybristoluk.org/about/safe-space-policy/
 * http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
 * http://en.wikipedia.org/wiki/Trauma_trigger
+
+* http://www.sparkindarkness.com/2012/11/the-dictionary-is-not-authority.html
+* http://www-personal.umich.edu/~mdover/website/Oppression%20Compendium%20and%20Materials/Definitions%20of%20Oppression.pdf
+* http://racismschool.tumblr.com/post/60803034543/6-reasons-i-dont-like-the-dictionarys-definition-of
+* http://racismschool.tumblr.com/Racism:Definitions
