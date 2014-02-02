@@ -274,7 +274,7 @@
     4.  A member of the association may be appointed to a casual vacancy on the
         management committee under rule 21
     5.  A member may not hold the same position on the management committee for
-        more than 3 consecutive years.
+        more than 2 consecutive years.
 
 19. #### Electing the management committee
 
