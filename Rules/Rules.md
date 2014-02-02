@@ -199,7 +199,7 @@
         1.  the full name of the member;
         2.  the postal, e-mail, or residential address of the member;
         3.  the date of admission as a member;
-        4.  the date of death or time of resignation of the member;
+        4.  the date of death or time of resignation of the member, if available;
         5.  details about the termination or reinstatement of membership;
         6.  any other particulars the management committee or the members at a
             general meeting decide.
