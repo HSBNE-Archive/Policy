@@ -19,6 +19,6 @@ Policy tracks through various branches as it is created, modified and accepted.
    of getting your changes approved (via either executive or membership vote)
 3. If changes are approved, merge (don't rebase) your policy to master.
 
-### (License)[LICENSE.md]
+### [License](LICENSE.md)
 
 Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA)
