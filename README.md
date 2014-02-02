@@ -14,7 +14,11 @@ Policy tracks through various branches as it is created, modified and accepted.
 
 ### Contributing
 
-1. Write your policy document or changes in either draft or draft/mypolicy
+1. Write your policy document or changes in either draft or draft@mypolicy
 2. When you are happy with your document(s), go through the real life procedure
    of getting your changes approved (via either executive or membership vote)
 3. If changes are approved, merge (don't rebase) your policy to master.
+
+### (License)[LICENSE.md]
+
+Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA)
