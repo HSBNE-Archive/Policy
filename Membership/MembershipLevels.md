@@ -1,4 +1,4 @@
-## Draft Membership Levels Policy
+# Draft Membership Levels Policy
 
 Hackerspace Brisbane is a place where everyone is expected to be excelent to each other.
 
@@ -49,6 +49,24 @@ You are also now expected to hand out parking tickets, and help new memebers aro
 
 125-250 Rep
 
-** Level 4 Member
+**Level 4 Member
 
-Everything above
+Everything above.
+
+Ability (with the signing of another member) to issue yellow Cards.
+
+250-500 Rep
+
+
+**Level 5 Member
+
+Ability (with signing of another memeber) to issue red cards.
+
+New member tours are on your todo list now! Should you wish to accept
+
+500-1000 Rep
+
+**Level 6 Member
+
+Something
+
