@@ -17,6 +17,11 @@ Rep codes are a qr code generated at the welcome center?
 
 TBA
 
+
+# How it works!
+
+This doens't replace or remove the exec, this supliments the exec to try and maintain the be excelent hackerspace culture
+
 **Level 1 Member
 
 This memeber is exactly that. A memeber, they have no voting rights, they have basic access to all HSBNE Facilities.
