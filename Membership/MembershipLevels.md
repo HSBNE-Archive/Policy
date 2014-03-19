@@ -29,7 +29,7 @@ Sadly you cannot take rep of people. #sorry
 
 Everything above!
 
-However you can now Vote at the AGM! Use this power wisely, be excelent or you might get your rep taken off you. The choice is your, chump.
+However you can now Vote at the AGM! Use this power wisely, be excelent or you might get your rep taken off you. The choice is youris, chump.
 
 25-125 Rep
 
@@ -68,5 +68,13 @@ New member tours are on your todo list now! Should you wish to accept
 
 **Level 6 Member
 
-Something
+All of the Above.
+
+You have been around a while, people like your opinions.
+
+You are like the peace keeping, firefighting awesome people in HSBNE. 
+
+KEEP THE PEACE SON!
+
+1000+ Rep
 
