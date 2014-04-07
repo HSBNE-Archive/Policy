@@ -373,10 +373,24 @@
         1.  the time the notice is received by the secretary; or
         2.  if a later time is stated in the notice - the later time.
 
-    3.  A member may be removed from office at a general meeting of the
-        association if 3/4 of the full membership vote in favor of removing the
+    3.  The management committee of the association may call a vote of the
+        management committee at any time to remove a person from the management
+        committee.
+    4.  A management committee vote to remove a member of the management committee
+        may only pass with a unanimous vote of the entire committee, minus one member.
+    5.  if a member of the management committee misses 3 consecutive executive
+        meetings over a period of at least 1 month, without apology or proxy they
+        are no longer considered "in good standing" with the remainder of the exec,
+        and the position can be declared vacant by the remainder of the exec, resulting
+        in the person being removed from the exec. If this item occurs it must be
+        published to the general membership in accordance with item 6.
+    6.  the circumstances of all office vacancies to the management committee must
+        be published to the general membership via the official communication method
+        of the group.
+    7.  A member may be removed from office at a general meeting of the
+        association if 3/4 of the full membership vote in favour of removing the
         member.
-    4.  Before a vote of members is taken about removing the member from office,
+    8.  Before a vote of members is taken about removing the member from office,
         the member;
 
         1.  must be given a full and fair opportunity to show cause why he or she
@@ -385,12 +399,12 @@
             meeting they can attend and present a reason as to why they should not
             be removed from office;
 
-    5.  If within 1 month the member has not appeared at a meeting to show cause
+    9.  If within 1 month the member has not appeared at a meeting to show cause
         why they should not be removed a meeting will be held in their absence
         to vote upon their removal
-    6.  A member has no right of appeal against the members removal from office
+    10. A member has no right of appeal against the members removal from office
         under this rule.
-    7.  A member immediately vacates the office of member in the circumstances
+    11. A member immediately vacates the office of member in the circumstances
         mentioned in section 642 of the Act.
 
 21. #### Vacancies on management committee
