@@ -70,9 +70,14 @@
     1.  All new members must declare their intent to join to one or more of the
         management committee and then pay at least 1 months membership in
         advance and inform one or more of the management committee.
-    2.  Upon confirmation of payment by the treasurer, a person is
-    3.  Upon Admission as a member, the new member will be issued with an RFID
-        entry card at the earliest possible convenience.
+    2.  Upon confirmation of payment by the treasurer, a person is considered a
+        full member for the purposes of dues, but must complete other activities
+        set by the executive, such as ( but not limited to ) induction, before
+        their admission process is completed.
+    3.  Upon completed admission as a member, the new member will be issued with
+        an RFID entry card at the earliest possible convenience.
+    4.  Users who do not complete their membership admission process within 30
+        days, have no membership rights, and all prior payments are forfeit.
 
 8.  #### Membership fees
 
