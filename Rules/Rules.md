@@ -233,36 +233,71 @@
         is approved by the association and is also approved by the member in
         question.
 
-15. #### Appointment or election of secretary
+14. #### Position of President
 
-    1.  The secretary must be an individual residing in Queensland, or in
-        another State but not more than 65km from the Queensland border, who is
-        duly elected by the members at the annual general meeting as per rule 19
-    2.  If the association has not elected an interim officer as secretary for
-        the association before its incorporation, the members of the management
-        committee must ensure a secretary is appointed or elected for the
-        association within 1 month after incorporation.
-    3.  If a vacancy happens in the office of secretary, the members of the
-        management committee must ensure a secretary is appointed or elected for
-        the association within 1 month after the vacancy happens.
-    4.  If the secretary is not present at a meeting the chairperson of the
-        meeting may designate another person to record and publish the minutes
-        for that meeting only.
+    The President's functions include, but are not limited to -
 
-16. Removal of secretary
+    1.  Acting as a spokesperson for the group, or designating spokespersons as
+        necessary.
+    2.  Leading meetings and other activities as chairperson, wherever possible.
+    3.  Promotion of the association
+    4.  Point of contact for the association for internal and external parties.
+    5.  Other duties as required. For example, but not limited to:
 
-    1.  The management committee of the association may call a vote at any time
-        to remove a person appointed by the members as the secretary.
+        1.  Vision / Direction for the long-term future and goals of the association.
+        2.  Handling media queries, or delegating others to handle media queries.
+        3.  Make a reasonable attempt at gaining consensus, or working to achieve
+            the same, amongst the management committee.
 
-17. #### Functions of secretary
+15. #### Position of Vice-President
+
+    The Vice-President's functions include, but are not limited to -
+
+    1.  Performing the President's functions when the President is unavailable.
+    2.  Sharing the President's workload
+    3.  Ensuring that adequate stock levels are maintained for consumable supplies
+    4.  Ensuring audit and maintenance logs of the association, and actioning
+        maintenance or other activities that arise from these.
+    5.  Responsible for organising and maintaining the cleanliness of any
+        premises held by the association. For example by organising clean up
+        events, providing cleaning incentives etc.
+
+16. #### Position of Treasurer
+
+    The Treasurer's functions include, but are not limited to -
+
+    1.  Maintaining accurate financial records for the association.
+    2.  Providing financial status and guidance at meetings.
+    3.  Ensuring the association is meeting its obligations to the law regarding
+        financial matters.
+    4.  Ensuring the association maintains sufficient wind-up funds at all times.
+    7.  Ensuring the association meets all its contractual and legal obligations
+        financially.
+    8.  Ensuring the funds of the association are spent according to budgets set
+        by mandate of the association.
+
+17. #### Position of Patron
+
+    The Patron's functions include, but are not limited to -
+
+    1.  Participating in management committee meetings as the 'long memory' of
+        the association.
+
+    It is strongly encouraged that the Patron will be a member whom -
+
+    1.  Has held membership of more than 2 years where possible.
+    2.  Has held position on a previous executive where possible.
+
+18. #### Position of Secretary
 
     The Secretary’s functions include, but are not limited to -
 
-    1.  keeping minutes of each meeting and publishing those minutes to the
-        website; and
-    2.  keeping copies of all correspondence and other documents relating to the
+    1.  Keeping minutes of each meeting and publishing those minutes within 72
+        hours to the general membership in the normal accepted format.
+    2.  Keeping copies of all correspondence and other documents relating to the
         association; and
-    3.  maintaining the register of members of the association.
+    3.  Maintaining the register of members of the association.
+    4.  Collating agendas for general meetings.
 
 18. #### Membership of management committee
 
@@ -299,6 +334,23 @@
         1.  is an adult; and
         2.  is not ineligible to be elected as a member under section 61A of the
             Act.
+        3.  must be an individual residing in Queensland, or in
+            another State but not more than 65km from the Queensland border.
+        4.  Must not have a "for profit" or "business interest" in the group.
+        5.  Must not hold a position of power over an area, asset, or financial
+            consideration of the group due to business dealings with the group.
+            Examples of this include:
+
+            *  Rental agreements
+            *  Sponsors
+            *  Service providers
+            *  Asset providers
+
+            Any exception to this must be declared at a general meeting prior to
+            taking a position on the management committee, and left to the general
+            membership to decide any exceptions by a vote.
+
+        6. Must score 70% or better on an TOEIC test for english skills.
 
     3.  A candidate must be present at the annual general meeting to be
         nominated.
