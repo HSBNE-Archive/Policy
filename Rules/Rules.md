@@ -889,7 +889,8 @@
     1.  Subject to the Act, these rules may be amended, repealed or added to by
         a special resolution carried at a general meeting.
     2.  However an amendment, repeal or addition is valid only if it is
-        registered by the chief executive.
+        registered by the chief executive of the Office of Fair Trading or
+        other appropriate government body.
 
 44. #### Common seal
 
