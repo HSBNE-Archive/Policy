@@ -355,7 +355,7 @@
     3.  A candidate must be present at the annual general meeting to be
         nominated.
     4.  If required by the management committee, balloting lists must be
-        prepared containing the names of the candidates in alphabetical order.
+        prepared containing the names of the candidates in randomised order.
     5.  The management committee must ensure that, before a candidate is elected
         as a member of the management committee, the candidate is advised -
 
