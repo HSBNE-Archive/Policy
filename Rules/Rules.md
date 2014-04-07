@@ -65,15 +65,7 @@
     1.  The membership of the association consists of ordinary members.
     2.  The number of ordinary members is unlimited.
 
-6.  #### Automatic membership
-
-    1. A person who, on the day the association is incorporated, was a member of
-       the unincorporated association and who, on or before a day fixed by the
-       management committee, agrees in writing to become a member of the
-       incorporated association, must be admitted by the management committee as
-       an ordinary member.
-
-7.  #### New membership
+6.  #### New membership
 
     1.  All new members must declare their intent to join to one or more of the
         management committee and then pay at least 1 months membership in
