@@ -158,22 +158,24 @@
         be waived due to financial hardship as per rule 8 subrule (3) or (4)
     5.  If, after considering all representations made by the member, the
         management committee decides to terminate the membership, the secretary
-        of the committee must give the member a written notice of the decision.
+        of the committee must give the member a written notice of the decision,
+        and must notify the general membership via the official communications
+        medium of the association.
 
 11. #### Appeal against rejection or termination of membership
 
     1.  A person whose application for membership has been rejected, or whose
-        membership has been terminated, may give the secretary written notice of
-        the persons intention to appeal against the decision.
-    2.  A notice of intention to appeal must be given to the secretary within 1
-        month after the person receives written notice of the decision.
-    3.  If the secretary receives a notice of intention to appeal, the secretary
-        must, within 1 month after receiving the notice, call a general meeting
-        to decide the appeal.
+        membership has been terminated, must give the general membership written
+        notice of the persons intention to appeal against the decision.
+    2.  A notice of intention to appeal must be given within 7 days after the
+        person receives written notice of the decision.
+    3.  If the secretary receives a notice of intention to appeal via a public
+        announcement, the secretary must, within 7 days after receiving the
+        notice, call a general meeting to decide the appeal.
 
 12. #### General meeting to decide appeal
 
-    1.  The general meeting to decide an appeal must be held within 4 weeks
+    1.  The general meeting to decide an appeal must be held within 5 weeks
         after the secretary receives the notice of intention to appeal.
     2.  At the meeting, the applicant must be given a full and fair opportunity
         to show why the application should not be rejected or the membership
