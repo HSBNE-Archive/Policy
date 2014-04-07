@@ -648,12 +648,15 @@
             meeting for adoption;
         3.  electing members of the management committee.
 
-35. #### Notice of general meeting
-    1.  The executive may call a general meeting of the association.
-    2.  The secretary must give at least 5 days notice of the meeting to each
-        member of the association.
-    3.  If the secretary is unable or unwilling to call the meeting, the
-        president must call the meeting.
+36. #### Notice of general meeting
+
+    1.  Any member may initiate a general meeting of the association by raising
+        an agenda item on the group public communication medium.
+    2.  The secretary must assemble agenda items, and select a suitable date for
+        the meeting, and give at least 5 days notice of the meeting to each member
+        of the association for all items, financial or otherwise.
+    3.  If the secretary is unable or unwilling to call the meeting, another
+        member of the management committee must call the meeting.
     4.  The management committee may decide the way in which the notice must be
         given.
 
