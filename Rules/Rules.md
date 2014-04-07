@@ -462,7 +462,14 @@
         2.  if there is more than 1 financial institution for the association - the
             financial institution nominated by the management committee.
 
-23. #### Meetings of management committee
+    5.  The management committee are expected in normal operation to:
+
+        1.  Foster the hacker culture
+        2.  Engage, and vote at Management meetings
+        3.  Assist pro-actively in ensuring the smooth operation of the other
+            executive positions.
+
+24. #### Meetings of management committee
 
     1.  Subject to this rule, the management committee may meet and conduct its
         proceedings as it considers appropriate.
