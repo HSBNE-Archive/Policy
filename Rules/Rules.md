@@ -927,15 +927,11 @@
         4.  any other members of the association who have been authorised by the
             management committee to hold credit-cards issued by the association.
 
-    6.  (redacted)
-    7.  Cheques, other than cheques for wages, allowances or petty cash
+    6.  Cheques, other than cheques for wages, allowances or petty cash
         recoupment, must be crossed not negotiable.
-    8.  A petty cash account must be kept on the imprest system, and the
-        management committee must decide the amount of petty cash to be kept in
-        the account.  ( see http://en.wikipedia.org/wiki/Imprest_system )
-    9.  All group expenditure must be made in-line with decisions mae by the 
-        membership at a general meeting, as evidenced by published minutes 
-        supporting the decision or budget. Final assurance or ratification of the 
+    7.  All group expenditure must be made in-line with decisions made by the
+        membership at a general meeting, as evidenced by published minutes
+        supporting the decision or budget. Final assurance or ratification of the
         expenditure is the responsibility of the Treasurer, or by a majority vote at
         a management committee meeting.
 
