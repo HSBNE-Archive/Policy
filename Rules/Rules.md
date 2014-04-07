@@ -103,6 +103,9 @@
         $30 per month for students and unemployed persons. When paid in-advance
         and for a minimum of 3 months at a time, it is $55 per calendar month
         for members who are employed.
+    6.  The management committee, may for the purposes of a promotion and/or
+        event discount the membership fee for new members up to 50% to a
+        maximum of 3 months.
 
 9.  #### Admission and rejection of new members
 
