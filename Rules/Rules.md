@@ -2,8 +2,8 @@
 
 1.  #### Interpretation
 
-    1.  In these rules— Act means the Associations Incorporation Act 1981.
-        present—
+    1.  In these rules - Act means the Associations Incorporation Act 1981.
+        present -
 
         1.  at a management committee meeting, see rule 23(6); or
         2.  at a general meeting, see rule 37(2).
@@ -18,7 +18,7 @@
 
 3.  #### Objects
 
-    The objects of the association are—
+    The objects of the association are -
 
     To provide a physical space where hackers, computer geeks, engineers,
     circuit benders, crafters,  and those with interests in computer security,
@@ -47,7 +47,7 @@
 4.  #### Powers
 
     1.  The association has the powers of an individual.
-    2.  The association may, for example—
+    2.  The association may, for example -
 
         1.  enter into contracts; and
         2.  acquire, hold, deal with and dispose of property; and
@@ -110,7 +110,7 @@
 9.  #### Admission and rejection of new members
 
     1.  The management committee may consider an application for membership at
-        the next committee meeting held after it receives—
+        the next committee meeting held after it receives -
 
         1.  the application for membership; and
         2.  the appropriate membership fee for the application.
@@ -118,10 +118,10 @@
     2.  The management committee must ensure that, as soon as possible after the
         person applies to become a member of the association, and before the
         management committee considers the persons application, the person is
-        advised—
+        advised -
 
         1.  whether or not the association has public liability insurance; and
-        2.  if the association has public liability insurance—the amount of the
+        2.  if the association has public liability insurance - the amount of the
             insurance.
 
     3.  The management committee must decide whether to accept or reject the
@@ -137,13 +137,13 @@
 
     1.  A member may resign from the association by giving a written (including
         electronic) notice of resignation to the secretary.
-    2.  The resignation takes effect at—
+    2.  The resignation takes effect at -
 
         1.  the time the notice is received by the secretary; or
-        2.  if a later time is stated in the notice—the later time.
+        2.  if a later time is stated in the notice - the later time.
 
     3.  The management committee may terminate a members membership if the
-        member—
+        member -
 
         1.  is convicted of an indictable offense; or
         2.  does not comply with any of the provisions of these rules; or
@@ -194,7 +194,7 @@
 
     1.  The management committee must keep a register of members of the
         association ( electronic form is preferred).
-    2.  The register must include the following particulars for each member—
+    2.  The register must include the following particulars for each member -
 
         1.  the full name of the member;
         2.  the postal, e-mail, or residential address of the member;
@@ -216,7 +216,7 @@
 
 14. #### Prohibition on use of information on register of members
 
-    1.  A member of the association must not—
+    1.  A member of the association must not -
 
         1.  use information obtained from the register of members of the
             association to contact, or send material to, another member of the
@@ -254,7 +254,7 @@
 
 17. #### Functions of secretary
 
-    The secretary’s functions include, but are not limited to—
+    The Secretary’s functions include, but are not limited to -
 
     1.  keeping minutes of each meeting and publishing those minutes to the
         website; and
@@ -278,7 +278,7 @@
 
 19. #### Electing the management committee
 
-    1.  A member of the management committee may only be elected as follows—
+    1.  A member of the management committee may only be elected as follows -
 
         1.  any member of the association may nominate another member (the
             candidate) to serve as a member of the management committee;
@@ -292,7 +292,7 @@
         annual general meeting may vote for 1 candidate for each vacant position
         on the management committee;
 
-    2.  A person may be a candidate only if the person—
+    2.  A person may be a candidate only if the person -
 
         1.  is an adult; and
         2.  is not ineligible to be elected as a member under section 61A of the
@@ -303,10 +303,10 @@
     4.  If required by the management committee, balloting lists must be
         prepared containing the names of the candidates in alphabetical order.
     5.  The management committee must ensure that, before a candidate is elected
-        as a member of the management committee, the candidate is advised—
+        as a member of the management committee, the candidate is advised -
 
         1.  whether or not the association has public liability insurance; and
-        2.  if the association has public liability insurance—the amount of the
+        2.  if the association has public liability insurance - the amount of the
             insurance.
 
 20. #### Resignation, removal or vacation of office of management committee
@@ -314,10 +314,10 @@
 
     1.  A member of the management committee may resign from the committee by
         giving written notice of resignation to the secretary.
-    2.  The resignation takes effect at—
+    2.  The resignation takes effect at -
 
         1.  the time the notice is received by the secretary; or
-        2.  if a later time is stated in the notice—the later time.
+        2.  if a later time is stated in the notice - the later time.
 
     3.  A member may be removed from office at a general meeting of the
         association if 3/4 of the full membership vote in favor of removing the
@@ -347,8 +347,8 @@
     2.  The continuing members of the management committee may act despite a
         casual vacancy on the management committee.
     3.  However, if the number of committee members is less than the number
-        fixed under rule 241 as a quorum of the management committee, the
-        continuing members may act only to—
+        fixed under rule 24.1 as a quorum of the management committee, the
+        continuing members may act only to -
 
         1.  increase the number of management committee members to the number
             required for a quorum; or
@@ -363,10 +363,10 @@
     2.  The management committee has authority to interpret the meaning of these
         rules and any matter relating to the association on which the rules are
         silent, but any interpretation must have regard to the Act, including
-        any regulation made under the Act.  Note— The Act prevails if the
-        associations rules are inconsistent with the Act—see section 1B of the
+        any regulation made under the Act.  Note - The Act prevails if the
+        associations rules are inconsistent with the Act - see section 1B of the
         Act.
-    3.  The management committee may exercise the powers of the association—
+    3.  The management committee may exercise the powers of the association -
 
         1.  to borrow, raise or secure the payment of amounts in a way the
             members of the association decide; and
@@ -388,10 +388,10 @@
 
     4.  For subrule (3)(4), the rate of interest must not be more than the
         current rate being charged for overdrawn accounts on money lent
-        (regardless of the term of the loan) by—
+        (regardless of the term of the loan) by -
 
         1.  the financial institution for the association; or
-        2.  if there is more than 1 financial institution for the association—the
+        2.  if there is more than 1 financial institution for the association - the
             financial institution nominated by the management committee.
 
 23. #### Meetings of management committee
@@ -431,7 +431,7 @@
         committee, the meeting lapses.
     3.  If there is no quorum within 30 minutes after the time fixed for a
         management committee meeting called other than on the request of the
-        members of the committee—
+        members of the committee -
 
         1.  the meeting is to be adjourned for at least 7 days; and
         2.  the members of the management committee who are present are to decide
@@ -449,12 +449,12 @@
         receives the request.
     2.  If the secretary is unable or unwilling to call the special meeting, the
         president must call the meeting.
-    3.  A request for a special meeting must state—
+    3.  A request for a special meeting must state -
 
         1.  why the special meeting is called; and
         2.  the business to be conducted at the meeting.
 
-    4.  A notice of a special meeting must state—
+    4.  A notice of a special meeting must state -
 
         1.  the day, time and place of the meeting; and
         2.  the business to be conducted at the meeting.
@@ -486,7 +486,7 @@
     1.  An act performed by the management committee, or a person acting as a
         member of the management committee is taken to have been validly
         performed.
-    2.  Subrule (1) applies even if the act was performed when—
+    2.  Subrule (1) applies even if the act was performed when -
 
         1.  there was a defect in the appointment of a member of the management
             committee,or person acting as a member of the management committee; or
@@ -508,7 +508,7 @@
 
 31. #### Subsequent annual general meetings
 
-    1.  Each subsequent annual general meeting must be held—
+    1.  Each subsequent annual general meeting must be held -
 
         1.  at least once each year; and
         2.  within 6 months after the end date of the association's reportable
@@ -521,7 +521,7 @@
 32. Business to be conducted at annual general meeting of level 1 incorporated
     associations and particular level 2 and 3 incorporated associations
 
-    1.  This rule applies only if the association is—
+    1.  This rule applies only if the association is -
 
         1.  a level 1 incorporated association; or
         2.  a level 2 incorporated association to which section 59 of the Act
@@ -530,17 +530,17 @@
             applies.
 
     2.  The following business must be conducted at each annual general meeting
-        of the association—
+        of the association -
 
         1.  receiving the association's financial statement, and audit report,
             for the last reportable financial year;
         2.  presenting the financial statement and audit report to the meeting
             for adoption;
         3.  electing members of the management committee;
-        4.  for a level 1 incorporated association—appointing an auditor or an
+        4.  for a level 1 incorporated association - appointing an auditor or an
             accountant for the present financial year;
         5.  for a level 2 incorporated association, or a level 3 incorporated
-            association, to which section 59 of the Act applies—appointing an
+            association, to which section 59 of the Act applies - appointing an
             auditor, an accountant or an approved person for the present financial
             year.
 
@@ -550,7 +550,7 @@
     1.  This rule applies only if the association is a level 2 incorporated
         association to which section 59A of the Act applies.
     2.  The following business must be conducted at each annual general meeting
-        of the association—
+        of the association -
 
         1.  receiving the association's financial statement, and signed
             statement, for the last reportable financial year;
@@ -565,7 +565,7 @@
     1.  This rule applies only if the association is a level 3 incorporated
         association to which section 59B of the Act applies.
     2.  The following business must be conducted at each annual general meeting
-        of the association—
+        of the association -
 
         1.  receiving the association's financial statement, and signed
             statement, for the last reportable financial year;
@@ -587,10 +587,10 @@
             (hackerspace_brisbane@googlegroups.com) list and Google™ calendar.
 
     5.  However, notice of the following meetings must be given in writing (
-        email is acceptable) —
+        email is acceptable) -
 
         1.  a meeting called to hear and decide the appeal of a person against
-            the management committee's decision—
+            the management committee's decision -
 
             1.  to reject the person's application for membership of the
                 association; or
@@ -618,7 +618,7 @@
         committee or the association, the meeting lapses.
     5.  If there is no quorum within 30 minutes after the time fixed for a
         general meeting called other than on the request of members of the
-        management committee or the association—
+        management committee or the association -
 
         1.  the meeting is to be adjourned for at least 7 days; and
         2.  the management committee is to decide the day, time and place of the
@@ -646,7 +646,7 @@
     2.  A member who participates in a meeting as mentioned in subrule (1) is
         taken to be present at the meeting.
 
-    3.  At each general meeting—
+    3.  At each general meeting -
 
         1.  the president is to preside as chairperson; and
         2.  if there is no president or if the president is not present within
@@ -677,10 +677,10 @@
 39. #### Special general meeting
 
     1.  The secretary must call a special general meeting by giving each member
-        of the association notice of the meeting within 14 days after—
+        of the association notice of the meeting within 14 days after -
 
         1.  being directed to call the meeting by the management committee; or
-        2.  being given a written request signed by—
+        2.  being given a written request signed by -
 
             1.  at least 33% of the number of members of the management
                 committee when the request is signed; or
@@ -689,18 +689,18 @@
                 committee when the request is signed plus 1; or
 
         3.  being given a written notice of an intention to appeal against the
-        decision of the management committee—
+        decision of the management committee -
 
             1.  to reject an application for membership; or
             2.  to terminate a person's membership.
 
-    2.  A request mentioned in subrule 1.2 must state—
+    2.  A request mentioned in subrule 1.2 must state -
 
         1.  why the special general meeting is being called; and
         2.  the business to be conducted at the meeting.
 
     3.  A special general meeting must be held within 3 months after the
-        secretary—
+        secretary -
 
         1.  is directed to call the meeting by the management committee; or
         2.  is given the written request mentioned in subrule (1)(b); or
@@ -713,7 +713,7 @@
 40. #### Proxies
 
     1.  An instrument appointing a proxy must be in writing and be in the
-        following or similar form—
+        following or similar form -
 
         (Name of association):
 
@@ -726,11 +726,11 @@
 
         (Signature)
 
-    2.  The instrument appointing a proxy must—
+    2.  The instrument appointing a proxy must -
 
-        1.  if the appointor is an individual—be signed by the appointor or the
+        1.  if the appointor is an individual - be signed by the appointor or the
         appointor's attorney properly authorised in writing; or
-        2.  if the appointor is a corporation—
+        2.  if the appointor is a corporation -
 
             1.  be under seal; or
             2.  be signed by a properly authorised officer or attorney of the
@@ -746,7 +746,7 @@
         proxy considers appropriate.
     7.  If a member wants a proxy to vote for or against a resolution, the
         instrument appointing the proxy must be in the following or similar
-        form—
+        form -
 
         (Name of association):
 
@@ -760,7 +760,7 @@
         (Signature)
 
         This form is to be used in favour of/against (strike out whichever is
-        not wanted) the following resolutions—
+        not wanted) the following resolutions -
 
         (List relevant resolutions)
 
@@ -770,7 +770,7 @@
         matters, resolutions and other proceedings of each general meeting are
         entered in a minute book or saved electronically in an online resource
         at a place agreeable to and accessible to all of the membership.
-    2.  To ensure the accuracy of the minutes—
+    2.  To ensure the accuracy of the minutes -
 
         1.  the minutes of each general meeting must be signed by the
             chairperson of the meeting, or the chairperson of the next general
@@ -785,7 +785,7 @@
             document).
 
     3.  If asked by a member of the association, the secretary must, within 28
-        days after the request is made—
+        days after the request is made -
 
         1.  make the minute book (or electronic record) for a particular general
             meeting available for inspection by the member at a mutually agreed time
@@ -812,13 +812,13 @@
 44. #### Common seal
 
     1.  The management committee must ensure the association has a common seal.
-    2.  The common seal must be—
+    2.  The common seal must be -
 
         1.  kept securely by the management committee; and
         2.  used only under the authority of the management committee.
 
     3.  Each instrument to which the seal is attached must be signed by a member
-        of the management committee and countersigned by—
+        of the management committee and countersigned by -
 
         1.  the secretary; or
         2.  another member of the management committee; or
@@ -836,7 +836,7 @@
     4.  A payment by the association of $100 or more must be made by credit-card
         or electronic funds transfer  (as both are fully traceable).
     5.  If a payment of $100 or more is made by credit-card, the receipt must be
-        signed by any 1 of the following—
+        signed by any 1 of the following -
 
         1.  the president;
         2.  the secretary;
@@ -875,20 +875,20 @@
 
 49. #### Distribution of surplus assets to another entity
 
-    1.  This rule applies if the association—
+    1.  This rule applies if the association -
 
         1.  is wound-up under part 10 of the Act; and
         2.  has surplus assets.
 
     2.  The surplus assets must not be distributed among the members of the
         association.
-    3.  The surplus assets must be given to another entity—
+    3.  The surplus assets must be given to another entity -
 
         1.  having objects similar to the association's objects; and
         2.  the rules of which prohibit the distribution of the entity's income
             and assets to its members.
 
-    4.  In this rule— surplus assets see section 92(3) of the Act
+    4.  In this rule - surplus assets see section 92(3) of the Act
 
 
 
