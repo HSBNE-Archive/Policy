@@ -733,6 +733,10 @@
             the meeting; and
         3.  the chairperson must conduct the meeting in a proper and orderly
             way.
+        4.  the secretary is to take notes for the general meeting; and
+        5.  If the secretary is not present at a meeting the chairperson of the
+            meeting may designate another person to record and publish the minutes
+            for that meeting only.
 
 38. #### Voting at general meeting
 
