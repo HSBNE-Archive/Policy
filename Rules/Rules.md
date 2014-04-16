@@ -743,7 +743,10 @@
 
     1.  At a general meeting, each question, matter or resolution, other than a
         special resolution, must be decided by a majority (50%) of votes of the
-        members present.
+        members present. Both "for" and "against" vote tallies must be recorded
+        in the minutes. Any discrepancies with the recorded numbers for total
+        members present is taken to mean "abstain" vote/s (or users who arrived
+        or departed during the meeting) and do not count toward any vote tally.
     2.  Each member present and eligible to vote is entitled to 1 vote only and,
         if the votes are equal, the chairperson has a casting vote as well as a
         primary vote.
@@ -756,6 +759,8 @@
         conduct the secret ballot in the way the chairperson decides.
     7.  The result of a secret ballot as declared by the chairperson is taken to
         be a resolution of the meeting at which the ballot was held.
+    8.  Any member who abstains in any vote is considered to not be present for
+        that vote, and their vote does not count toward either side.
 
 40. #### Special general meeting
 
