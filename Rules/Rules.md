@@ -553,8 +553,9 @@
 
 28. #### Appointment of subcommittees
 
-    1. There is no subcommittee system in the HSBNE Constitution, as such the
-       management committee may NOT appoint a subcommittee.
+    1. Subcommitties as defined by the 'Cause' bylaws may be appointed.
+    2. Subcommitties of types not defined by the 'Cause' bylaws may not be
+       appointed.
 
 29. #### Acts not affected by defects or disqualifications
 
