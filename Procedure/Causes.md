@@ -70,7 +70,11 @@ are:
 1. Quorum is defined as minimum 3 people or 40% of cause membership, whichever
    is greater.
 2. The cause leader has a discretionary amount as determined by the Treasurer.
-   (Currently $100/m but can not exceed cause budget)
+   (Currently *$100/m* but can not exceed cause balance)
+3. Causes may (at the discretion of the treasurer) accept contributions from
+   sources other than membership fee alotments.
+4. Causes meetings may only vote on items relating to the expenditure of a
+   causes balance.
 
 Otherwise, a cause operates as does the larger group, to highlight a few key
 points:
@@ -78,8 +82,8 @@ points:
 1. The requirements for meetings to vote on decisions with:
   * Quorum at a meeting.
   * Adequate public notice.
-  * Minutes accessible to the whole group.
-2. Five days notice to cause members for financial meeting items
+  * Minutes accessible to HSBNE membership.
+2. Five days notice to HSBNE members for financial meeting items.
 
 ### Causes are not Silos
 
@@ -87,11 +91,11 @@ A cause empowers you and people with similar interests to direct funds
 appropriately within your own consensus. It does not, in any way allow you to:
 
 * Deny general membership access to a cause maintained area
-* Deny non cause members to any equipment, tools, consumables or classes.
+* Deny non cause members to any meetings, equipment, tools, consumables or classes.
 
 ### Legal Mumbo Jumbo
 
-For the purposes of our incorporation rules, causes are defined as 
+For the purposes of our incorporation rules, causes are defined as
 subcommittees.
 
 ### Lets do this!
