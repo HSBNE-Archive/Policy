@@ -47,8 +47,10 @@ Causes must contribute back to the hackerspace as defined by the executive.
 Failure to meet these obligations in a calendar month will result in no funds
 being allocated for that month. The current rules for contribution are:
 
-1. One class run per 10 cause members per month. (10 members = 1 class, 11
-   members = 2 classes)
+1. One **unique** class run per 10 cause members per month.
+   * ie: 10 members = 1 class, 11 members = 2 classes.
+   * **Unique** means separate classes, not repeating the same class. ie: lathe
+     use and welding, or intro to soldering and oscilloscope 101
 2. Obligation to ‘own’ a physical area of the hackerspace and be responsible for
    its upkeep and appearance.
 3. Grants specifically for the cause must also have some contribution to the
