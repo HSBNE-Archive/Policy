@@ -146,7 +146,9 @@
         member -
 
         1.  is convicted of an indictable offense; or
-        2.  does not comply with any of the provisions of these rules; or
+        2.  does not comply with any of the provisions of these rules or 
+            applicable by-laws such as the Code of Conduct, Safe Space Policy, 
+            or Dispute Resolution Policy; or
         3.  has membership fees in arrears; or
         4.  conducts himself or herself in a way considered to be injurious or
             prejudicial to the character or interests of the association.
