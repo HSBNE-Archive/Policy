@@ -174,6 +174,9 @@
     3.  If the secretary receives a notice of intention to appeal via a public
         announcement, the secretary must, within 7 days after receiving the
         notice, call a general meeting to decide the appeal.
+    4.  If the reason for termination was substantiated belief of illegal behaviour
+        the appeals process is not available to the person whos membership has 
+        been terminated.
 
 11. #### General meeting to decide appeal
 
