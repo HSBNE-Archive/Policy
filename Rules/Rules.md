@@ -389,8 +389,8 @@
         in the person being removed from the exec. If this item occurs it must be
         published to the general membership in accordance with item 6.
     6.  the circumstances of all office vacancies to the management committee must
-        be published to the general membership via the official communication method
-        of the group.
+        be published to the general membership via the official communication medium
+        of the association.
     7.  A member may be removed from office at a general meeting of the
         association if 3/4 of the full membership vote in favour of removing the
         member.
