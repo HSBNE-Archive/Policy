@@ -20,10 +20,10 @@ This marker is currently defined as *$10,000*
 
 ### As a cause member
 
-You may allocate up to *25%* of your monthly dues towards up to *Three* causes,
-which gains you membership in those causes and voting rights. You can change
-these allocations once per month by contacting the Treasurer and notifying them
-of your preferences.
+You may allocate up to *25%* in total of your monthly dues towards up to *Three*
+causes, which gains you membership in those causes and voting rights. You can
+change these allocations once per month by contacting the Treasurer and notifying
+them of your preferences.
 
 ### As a cause leader
 
@@ -45,7 +45,8 @@ At a minimum, to exist a cause must have:
 
 Causes must contribute back to the hackerspace as defined by the executive.
 Failure to meet these obligations in a calendar month will result in no funds
-being allocated for that month. The current rules for contribution are:
+being allocated for that month, and the cause area being shutdown until the
+obligations are sufficiently met. The current rules for contribution are:
 
 1. One **unique** class run per 10 cause members per month.
    * ie: 10 members = 1 class, 11 members = 2 classes.
@@ -61,7 +62,8 @@ being allocated for that month. The current rules for contribution are:
 The area defined for upkeep gets cleaned and approved by a member of the exec as
 acceptable. Photos are taken as a reference. Each month a walkthrough will be
 performed to grade the area against the reference photos. No walkthrough report
-means no funds allocated for that month.
+means no funds allocated for that month, and the area will be closed until the
+grievance is resolved.
 
 #### Cause Rules
 
