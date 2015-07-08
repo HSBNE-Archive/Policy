@@ -146,7 +146,9 @@
         member -
 
         1.  is convicted of an indictable offense; or
-        2.  does not comply with any of the provisions of these rules; or
+        2.  does not comply with any of the provisions of these rules or 
+            applicable by-laws such as the Code of Conduct, Safe Space Policy, 
+            or Dispute Resolution Policy; or
         3.  has membership fees in arrears; or
         4.  conducts himself or herself in a way considered to be injurious or
             prejudicial to the character or interests of the association.
@@ -172,6 +174,9 @@
     3.  If the secretary receives a notice of intention to appeal via a public
         announcement, the secretary must, within 7 days after receiving the
         notice, call a general meeting to decide the appeal.
+    4.  If the reason for termination was substantiated belief of illegal behaviour
+        the appeals process is not available to the person whos membership has 
+        been terminated.
 
 11. #### General meeting to decide appeal
 
@@ -363,8 +368,7 @@
         2.  if the association has public liability insurance - the amount of the
             insurance.
 
-21. #### Resignation, removal or vacation of office of management committee
-    member
+21. #### Resignation, removal or vacation of office of management committee member
 
     1.  A member of the management committee may resign from the committee by
         giving written notice of resignation to the secretary.
@@ -385,8 +389,8 @@
         in the person being removed from the exec. If this item occurs it must be
         published to the general membership in accordance with item 6.
     6.  the circumstances of all office vacancies to the management committee must
-        be published to the general membership via the official communication method
-        of the group.
+        be published to the general membership via the official communication medium
+        of the association.
     7.  A member may be removed from office at a general meeting of the
         association if 3/4 of the full membership vote in favour of removing the
         member.
@@ -553,8 +557,9 @@
 
 28. #### Appointment of subcommittees
 
-    1. There is no subcommittee system in the HSBNE Constitution, as such the
-       management committee may NOT appoint a subcommittee.
+    1. Subcommitties as defined by the 'Cause' bylaws may be appointed.
+    2. Subcommitties of types not defined by the 'Cause' bylaws may not be
+       appointed.
 
 29. #### Acts not affected by defects or disqualifications
 
@@ -593,8 +598,7 @@
         annual meeting shall occur at the standard meeting time and the standard
         meeting place on the third Tuesday of May each year.
 
-33. Business to be conducted at annual general meeting of level 1 incorporated
-    associations and particular level 2 and 3 incorporated associations
+33. #### Business to be conducted at annual general meeting of level 1 incorporated associations and particular level 2 and 3 incorporated associations
 
     1.  This rule applies only if the association is -
 
@@ -619,8 +623,7 @@
             auditor, an accountant or an approved person for the present financial
             year.
 
-34. #### Business to be conducted at annual general meeting of other level 2
-    incorporated associations
+34. #### Business to be conducted at annual general meeting of other level 2 incorporated associations
 
     1.  This rule applies only if the association is a level 2 incorporated
         association to which section 59A of the Act applies.
@@ -635,8 +638,7 @@
         4.  appointing an auditor, an accountant or an approved person for the
             present financial year.
 
-35. #### Business to be conducted at annual general meeting of other level 3
-    incorporated associations
+35. #### Business to be conducted at annual general meeting of other level 3 incorporated associations
 
     1.  This rule applies only if the association is a level 3 incorporated
         association to which section 59B of the Act applies.
@@ -651,21 +653,16 @@
 
 36. #### Notice of general meeting
 
-    1.  Any member may initiate a general meeting of the association by raising
-        an agenda item on the group public communication medium.
-    2.  The secretary must assemble agenda items, and select a suitable date for
-        the meeting, and give at least 5 days notice of the meeting to each member
-        of the association for all items, financial or otherwise.
-    3.  If the secretary is unable or unwilling to call the meeting, another
-        member of the management committee must call the meeting.
-    4.  The management committee may decide the way in which the notice must be
-        given.
+    1.  General Meetings happen every second Tuesday from the date of the last
+        AGM.
+    2.  Any member may add to the agenda of a general meeting by raising the 
+        agenda item on the official communications medium of the association
+    3.  Non Financial agenda items have no notice period, and may be announced
+        verbally during a meeting.
+    5.  Financial agenda items must be announced to the official communications
+        medium of the association with 5 days notice.
 
-        1.  Initially, and unless the management committee decides otherwise,
-            notice of meetings shall be by electronic mailing
-            (hackerspace_brisbane@googlegroups.com) list and Google™ calendar.
-
-    5.  However, notice of the following meetings must be given in writing (
+    6.  Notice of the following meetings must be given in writing (
         email is acceptable) -
 
         1.  a meeting called to hear and decide the appeal of a person against
@@ -678,7 +675,16 @@
         2.  a meeting called to hear and decide a proposed special resolution of
         the association.
 
-    6.  A notice of a general meeting must state the business to be conducted at
+    7.  A General Meeting of the association may be called outside of the
+        schedule defined by 36.1 by any member. Notice periods and methods
+        differ depending on the agenda -
+
+            1.  Non Financial agendas may be notified verbally or in writing,
+                and have no notice period.
+            2.  Financial agendas must be notified in writing to the official
+                communications medium of the group with 5 days notice.
+
+    8.  A notice of a general meeting must state the business to be conducted at
         the meeting.
 
 37. #### Quorum for, and adjournment of, general meeting
@@ -995,3 +1001,7 @@
     considered equivalent and acceptable for these activities to be performed
     electronically ( eg by email), so long as the electronic medium used has
     storage capacity, and these messages are stored.
+3.  The official communications medium of the association is defined by the
+    currently standing management committee. Unless otherwise notified to the 
+    association members in writing, it defaults to the forum software
+    hosted on the HSBNE domain. http://forum.hsbne.org
