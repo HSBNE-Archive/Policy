@@ -1,6 +1,6 @@
 ## Safety Policy
 
-Safety at HSBNE is an important consideration given many of our members are not trained professionals using a tool they use in everyday use. Without considering Safety we cannot provide all of the wonderful machines and tooling we have avaialable under clear conscience.
+Safety at HSBNE is an important consideration given many of our members are not trained professionals using a tool they use in everyday use. Without considering Safety we cannot provide all of the wonderful machines and tooling we have available under clear conscience.
 
 ## General Safety Expectations
 It is expected of Members that they:
